@@ -1,4 +1,4 @@
-# adoteme
+# Calc
 
 ## Project setup
 ```
